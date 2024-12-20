@@ -9,6 +9,6 @@ entries:
     name: cadence
     type: application
     urls:
-    - https://github.com/amaretic-mbb/cadence-charts/cadence-0.1.0.tgz
+    - https://github.com/amaretic-mbb/cadence-charts/docs/cadence-0.1.0.tgz
     version: 0.1.0
 generated: "2024-12-20T14:49:52.407778265+01:00"
