@@ -1,7 +1,7 @@
 apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
-  name: ingress-cadence-web-deployment
+  name: ingress-ngi-cadence-web-deployment
   annotations:
     service.beta.kubernetes.io/aws-load-balancer-target-group-attributes: deregistration_delay.timeout_seconds=270
     service.beta.kubernetes.io/aws-load-balancer-nlb-target-type: ip
