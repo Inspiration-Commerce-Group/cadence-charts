@@ -17,10 +17,10 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: cadence-test.stylight.com
+  - host: images.cdn.staging.inspogroup.net
     http:
       paths:
-      - path: /
+      - path: /cadence
         pathType: Prefix
         backend:
           service:
