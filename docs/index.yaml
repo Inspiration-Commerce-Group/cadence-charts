@@ -3,12 +3,12 @@ entries:
   cadence:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2024-12-21T17:19:57.501610504+01:00"
+    created: "2024-12-21T17:35:44.484464013+01:00"
     description: Cadence Helm chart for Kubernetes
-    digest: ef8bdc7ebaaac30d0e3174016545b06b794436fda9029280e96efb5d6dca9495
+    digest: 61689c0d768d37a8f51860c9745e18503e588ce05f31b3ad4b34d9b1452d575f
     name: cadence
     type: application
     urls:
     - cadence-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-21T17:19:57.500802134+01:00"
+generated: "2024-12-21T17:35:44.483863264+01:00"
