@@ -3,9 +3,19 @@ entries:
   cadence:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2024-12-21T17:53:35.588294345+01:00"
+    created: "2024-12-21T18:45:15.172546308+01:00"
     description: Cadence Helm chart for Kubernetes
-    digest: 63f2e10eecb3e10c25e93a97b09d28f9653029b0af89492b5281dbfa14da1f35
+    digest: c5f31fc3615e50380e0dac3a1bf7559b76d7a4170bbdace10a7e2ab569170558
+    name: cadence
+    type: application
+    urls:
+    - cadence-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-12-21T18:45:15.172127667+01:00"
+    description: Cadence Helm chart for Kubernetes
+    digest: 1742387d3fe938679b837e6930f5a82138670cd6aa8d2fa6fc5f22cc577f48f9
     name: cadence
     type: application
     urls:
@@ -13,7 +23,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2024-12-21T17:53:35.5878345+01:00"
+    created: "2024-12-21T18:45:15.171613755+01:00"
     description: Cadence Helm chart for Kubernetes
     digest: eedcc24dfed4729a6c034b887db07f91971c2205a413d08a6fdc901bd8beae41
     name: cadence
@@ -21,4 +31,4 @@ entries:
     urls:
     - cadence-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-21T17:53:35.58725775+01:00"
+generated: "2024-12-21T18:45:15.170999449+01:00"
