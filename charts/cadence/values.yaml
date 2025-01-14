@@ -115,6 +115,7 @@ web:
   memory:
     limit: "1Gi"
     request: "1Gi"
+  url: "cadence.example.org"
 
 # -- Dynamic config values to be set in the Cadence server. List of keys can be found at https://github.com/uber/cadence/blob/master/common/dynamicconfig/constants.go
 dynamicConfig:
